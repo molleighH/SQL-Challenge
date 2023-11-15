@@ -5,5 +5,10 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
+Requirements
+Data Modeling (10 points)
+Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
 
+
+![DataModeling](https://github.com/molleighH/SQL-Challenge/assets/144710935/c74f1e69-8ddd-4b12-a119-73e1f887e5c9)
 

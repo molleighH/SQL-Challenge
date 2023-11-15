@@ -9,5 +9,5 @@ Data Modeling <b>(10 points)</b></br>
 Entity Relationship Diagram is included or table schemas provided for all tables</br>
 
 
-![DataModeling](https://github.com/molleighH/SQL-Challenge/assets/144710935/c74f1e69-8ddd-4b12-a119-73e1f887e5c9)
+![DataModeling](https://github.com/molleighH/SQL-Challenge/assets/144710935/c74f1e69-8ddd-4b12-a119-73e1f887e5c9) </br>
 
